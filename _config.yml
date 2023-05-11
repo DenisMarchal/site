@@ -5,8 +5,8 @@ remote_theme: open-sdg/open-sdg@2.2.0
 
 # Languages
 languages:
-  - fr
-  - en
+- fr
+- en
 
 # Replace this title as needed.
 title: general.site_title
