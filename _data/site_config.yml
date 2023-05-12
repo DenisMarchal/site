@@ -22,8 +22,8 @@ breadcrumbs:
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  name: France
+  adjective: France
 create_goals:
   previous_next_links: false
   goal_content_heading: ''
@@ -221,7 +221,7 @@ progressive_web_app:
 proxy_indicators:
   label: ''
   description: ''
-remote_data_prefix: 'https://denismarchal.github.io/data/'
+remote_data_prefix: 'https://denismarchal.github.io/data'
 reporting_status:
   title: status.reporting_status
   description: status.description
