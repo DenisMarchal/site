@@ -6,7 +6,7 @@ remote_theme: open-sdg/open-sdg@2.2.0
   
 # Replace this title as needed.
 title: general.site_title
-url: ""
+url: "https://www.insee.fr"
 environment: staging
 
 # Pages
