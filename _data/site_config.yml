@@ -66,7 +66,7 @@ footer_language_toggle: none
 footer_menu:
   - path: /contact-us
     translation_key: menu.contact_us
-  - path: 'https://twitter.com/MyTwitterAccount'
+  - path: 'https://twitter.com/inseeFr'
     translation_key: general.twitter
   - path: 'https://facebook.com/MyFacebookAccount'
     translation_key: general.facebook
@@ -79,13 +79,12 @@ frontpage_cards:
     button_label: ''
     button_link: ''
     rule_color: ''
-  - title: Lorem ipsum
+  - title: Actualités
     content: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi mollis
-      cursus est sed dapibus.
+      On peut mettte ici du texte....
     include: ''
-    button_label: Read more
-    button_link: 'https://example.com'
+    button_label: Pour en savoir plus...
+    button_link: 'https://www.insee.fr'
     rule_color: ''
   - title: Nam vestibulum
     content: |
@@ -142,8 +141,8 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 languages:
-  - en
   - fr
+  - en
 languages_public: []
 logos: []
 map_layers: []
