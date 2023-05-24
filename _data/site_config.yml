@@ -142,8 +142,8 @@ indicator_tabs:
   tab_3: ''
   tab_4: ''
 languages:
-  - en
   - fr
+  - en
 languages_public: []
 logos: []
 map_layers: []
